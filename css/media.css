@@ -1,0 +1,23 @@
+/* @media screen and(max-width: 1294px) {
+    .bg-img {
+        height: 495px!important;
+    }
+} */
+/* @media screen and(max-width: 826px) {
+    .bg-img {
+        height: 360px!important;
+    }
+} */
+/* @media screen and(max-width: 500px) {
+    .bg-img {
+        height: 280px !important;
+    }
+} */
+@media (max-width: 1400px) {
+    .card-position{
+        position:static !important;
+    }
+    .img {
+        margin-left: auto !important;
+    }
+}
